@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/tugasmdl3.iml" filepath="$PROJECT_DIR$/tugasmdl3.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/tgsmodul1.iml" filepath="$PROJECT_DIR$/tgsmodul1.iml" />
+>>>>>>> 7b822de54a0eac125167daf02c1ecde73e2e419a
     </modules>
   </component>
 </project>
